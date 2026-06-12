@@ -40,18 +40,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andradeprog01&layout=compact&theme=tokyonight)
 
 </div>
-
----
-
-## 📂 Projetos
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [Andrades Tech](https://github.com/andradeprog01/Felipeandrade-PW) | Loja virtual com tabela de produtos interativa | HTML, CSS, JS |
-| [Java Studies](https://github.com/andradeprog01) | Exercícios e projetos em Java | Java |
-
----
-
 <div align="center">
 
 ![Visitors](https://visitor-badge.liteflare.com/badge?page_id=andradeprog01)
