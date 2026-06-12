@@ -41,6 +41,6 @@
 </div>
 <div align="center">
 
-![Visitors](https://visitor-badge.liteflare.com/badge?page_id=andradeprog01)
+![Snake](https://github.com/andradeprog01/andradeprog01/blob/output/github-contribution-grid-snake.svg)
 
 </div>
