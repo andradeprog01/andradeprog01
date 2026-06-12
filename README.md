@@ -12,7 +12,7 @@
 
 - 🎓 Estudante de programação em constante aprendizado
 - 💻 Desenvolvendo projetos práticos de desenvolvimento web
-- 🤖 Criador de robôs no Robocode com Java
+- ☕ Aprendendo Java e desenvolvendo projetos do zero
 - 🚀 Sempre buscando evoluir um commit de cada vez
 
 ---
